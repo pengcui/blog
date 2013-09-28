@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>X. Wei's Blog</title><link href="http://x-wei.github.com" rel="alternate"></link><link href="http://x-wei.github.com/feeds/misc.atom.xml" rel="self"></link><id>http://x-wei.github.com</id><updated>2013-08-13T00:00:00+02:00</updated><entry><title>My test</title><link href="http://x-wei.github.com/my-test.html" rel="alternate"></link><updated>2013-08-13T00:00:00+02:00</updated><author><name>X.Wei</name></author><id>http://x-wei.github.com/my-test.html</id><summary type="html">&lt;h2&gt;MY test&lt;/h2&gt;
+&lt;p&gt;you are right&lt;/p&gt;</summary></entry></feed>

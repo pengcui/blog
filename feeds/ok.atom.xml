@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Peng's Blog</title><link href="http://pengcui.github.com" rel="alternate"></link><link href="http://pengcui.github.com/feeds/ok.atom.xml" rel="self"></link><id>http://pengcui.github.com</id><updated>2013-08-13T00:00:00+08:00</updated><entry><title>My test</title><link href="http://pengcui.github.com/my-test.html" rel="alternate"></link><updated>2013-08-13T00:00:00+08:00</updated><author><name>Peng Cui</name></author><id>http://pengcui.github.com/my-test.html</id><summary type="html">&lt;h2&gt;MY test&lt;/h2&gt;
+&lt;p&gt;you are right&lt;/p&gt;</summary><category term="ok"></category></entry></feed>

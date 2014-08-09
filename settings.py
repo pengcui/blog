@@ -19,9 +19,9 @@ DEFAULT_DATE = 'fs'
 
 DISQUS_SITENAME = "pengsblog"
 #GITHUB_URL = 'https://github.com/pengcui'
-#SITEURL = 'http://pengcui.github.com'
+SITEURL = 'http://pengcui.github.com/blog'
 GOOGLE_ANALYTICS = 'UA-30756331-1'
-TAG_FEED  = 'feeds/%s.atom.xml'
+TAG_FEED_ATOM  = 'feeds/%s.atom.xml'
 TAG_CLOUD_STEPS = 4
 FEED_RSS = 'feeds/all.rss.xml'
 #DEFAULT_ORPHANS=3

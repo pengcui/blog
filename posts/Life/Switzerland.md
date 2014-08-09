@@ -16,7 +16,7 @@ Slug: switzerland
 
 经过一路长途跋涉，历经转机，火车及地铁，最后，我终究还是迷路了。一路走路，一路问路，还好，碰到一个来自罗马尼亚的好心的小妹妹，她在那边读硕士，一阵忙活，总算是用 Google Map 帮我带到了目的地，学校之前帮忙预订的一个小旅馆里。这也是我第一次意识到，自己的 Chiglish 虽然不济，但也还是可以交流一下的。早就听说洛桑风光好，这边有些像是小镇的感觉，路面相当干净，除了学校和工厂以外，基本没有什么高楼，不像上海那种大都市的感觉。居民们住的大都是一栋小楼，外面有个小院子，没有用砖砌的墙，院子外围种了一圈我叫不出来名字的植物，这里面便成了自己的领地。我住的地方还不错，沿着窗外走100米，就可以看到一个大湖，视野很开阔，对岸是雪山，有太阳时，湖面上波光粼粼，可以很清楚的看到对面的皑皑白雪，这边环境很好，没有霾。。
 
-![瑞士之行1.jpg](http://d.pcs.baidu.com/thumbnail/5bc9db89ca0ccd51ee6beb818a0d62cd?fid=1061548417-250528-198354825628171&time=1407549600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2Fl%2Bzugdyd58K%2FuTKf9eG41sYcfM%3D&expires=2h&prisign=unkown&chkv=0&chkbd=0&chkpc=&size=c850_u580&quality=100)
+![瑞士之行1.jpg](http://d.pcs.baidu.com/thumbnail/5bc9db89ca0ccd51ee6beb818a0d62cd?fid=1061548417-250528-198354825628171&time=1407556800&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-oycoELt7ORlFYbXcyDy7ExAw2Uk%3D&rt=sh&expires=2h&r=482174644&sharesign=unknown&size=c710_u500&quality=100)
 
 
 ###其它的小伙伴们
@@ -56,5 +56,5 @@ Slug: switzerland
 
  另外一个感受是，一定要好好学习英语。学习英语不是为了考 IELTS 、TOFEL、GRE，也不是为了找个好工作，学习英语唯一的目地是为了让自己的灵魂更加自由，当你发现英语不再是你的阻碍的时候，另外一个崭新的广阔世界也将会向你敞开大门！
 
-![瑞士之行2.jpg](http://d.pcs.baidu.com/thumbnail/3b48a2f1892008c44906283567822379?fid=1061548417-250528-675446556840360&time=1407549600&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-hNMWS2xcIBLbMPOyLrT4i4Im81c%3D&rt=sh&expires=2h&r=479209006&sharesign=unknown&size=c710_u500&quality=100)
+![瑞士之行2.jpg](http://d.pcs.baidu.com/thumbnail/3b48a2f1892008c44906283567822379?fid=1061548417-250528-675446556840360&time=1407560400&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-pVR5Z2RSO5%2FNDk4AsYkFom1UJfc%3D&rt=sh&expires=2h&r=958828706&sharesign=unknown&size=c710_u500&quality=100)
 

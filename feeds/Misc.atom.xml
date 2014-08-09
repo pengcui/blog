@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Peng's Blog</title><link href="../." rel="alternate"></link><link href=".././feeds/Misc.atom.xml" rel="self"></link><id>../.</id><updated>2013-08-03T00:00:00+08:00</updated><entry><title>Hello World</title><link href=".././hello-world.html" rel="alternate"></link><updated>2013-08-03T00:00:00+08:00</updated><author><name>Peng Cui</name></author><id>.././hello-world.html</id><summary type="html">&lt;p&gt;Hello World! This is my first post.&lt;/p&gt;
-&lt;p&gt;Thanks to &lt;a href="http://docs.getpelican.com/en/3.2/"&gt;Pelican&lt;/a&gt;, wihich is a static website generator.&lt;/p&gt;
-&lt;p&gt;And thanks to &lt;a href="https://github.com/pengcui"&gt;GitHub&lt;/a&gt;. This blog is hosted on GitHub Pages.&lt;/p&gt;</summary></entry></feed>

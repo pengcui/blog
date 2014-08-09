@@ -1,6 +1,6 @@
 Title: 瑞士之行
 Date: 2014-02-24
-Category: Life
+Category: life
 Slug: switzerland
 
 

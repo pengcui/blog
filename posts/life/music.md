@@ -1,6 +1,6 @@
 Title: Music
 Date: 2013-08-30
-Category: Life
+Category: life
 Tags: music
 
 因为整天守在计算机旁，所以我可以一边工作，一边听歌。

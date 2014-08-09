@@ -14,7 +14,7 @@ DATE_FORMATS = {
 DEFAULT_LANG = 'en'
 
 SITENAME = "Peng's Blog"
-AUTHOR = 'Peng Cui'
+AUTHOR = 'pengcui'
 DEFAULT_DATE = 'fs'
 
 DISQUS_SITENAME = "pengsblog"
@@ -27,10 +27,10 @@ FEED_RSS = 'feeds/all.rss.xml'
 #DEFAULT_ORPHANS=3
 DEFAULT_PAGINATION = 10
 
-DEFAULT_CATEGORY ='Misc'
+DEFAULT_CATEGORY ='misc'
 OUTPUT_PATH = './output'
 #ARTICLE_SAVE_AS = 'out/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
-ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{slug}'
+ARTICLE_URL = '{slug}'
 #OUTPUT_PATH = 'out/{date:%Y}/{date:%b}/{date:%d}/{slug}.html'
 PATH = 'posts' 
 #~ THEME_STATIC_PATHS=['pelican-themes']

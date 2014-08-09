@@ -1,6 +1,6 @@
 Title: Hello World
 Date: 2013-08-03
-Category: Misc
+Category: misc
 
 Hello World! This is my first post.
 

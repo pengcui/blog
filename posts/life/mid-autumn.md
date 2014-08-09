@@ -1,6 +1,6 @@
 Title: 中秋
 Date: 2013-09-19
-Category: Life
+Category: life
 Slug: mid-autumn
 
 今天中秋节，是个团圆的日子。

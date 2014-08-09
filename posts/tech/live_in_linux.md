@@ -1,6 +1,6 @@
 Title: Linux 下面的一些习惯
 Date: 2013-08-17
-Category: Tech
+Category: tech
 Tags:linux
 
 在 linux 下面工作已经有一年半的时间了，最初只是被它简洁的外表所吸引，抱着玩一玩的心态，没想到几个月之后，windows 便被删掉了，linux 或许更适合我的工作。记得之前看过一篇报道，好像是说使用不同的操作系统，会对人的大脑结构产生不同的影响，我不知道这个是真是假，但我知道 linux 确实带给我一些不同于 windows 下面的操作习惯。
